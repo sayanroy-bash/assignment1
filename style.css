@@ -1,14 +1,14 @@
-div{
-    width: 20%;
-    margin: 0px 30px;
-    box-shadow: 10px 5px 5px gray;
+div {
+  width: 20%;
+  margin: 0px 30px;
+  box-shadow: 10px 5px 5px gray;
 }
-img{
-    margin: auto;
+img {
+  margin: auto 30px;
 }
-h3{
-   text-align: center;
+h3 {
+  text-align: center;
 }
-h2{
-   text-align: center;
+h2 {
+  text-align: center;
 }
